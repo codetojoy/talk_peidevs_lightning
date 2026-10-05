@@ -28,6 +28,9 @@ Talking point: "Still a still life, with one deliberate 'wrong' choice. This kin
 
 Henri Matisse, The Dessert: Harmony in Red (1908)
 
+* flatness
+* divorcing colour from reality: lighting
+
 One pattern covers both the wall and the table, so the table's edge nearly disappears.
 No conventional focal point and a flattened perspective.
 The background started green, became blue for its 1908 exhibition, and was repainted red in 1909.
@@ -35,9 +38,14 @@ Talking point: "Same composition, three different color schemes. He kept reworki
 
 Roy Lichtenstein, Still Life with Crystal Bowl (1972)
 
+* pop artist
+* three primary colours
+* comic book
+
 The most traditional subject of the four: a bowl of fruit on a table.
 Bold outlines, flat colors, and printing dots make it look machine-printed, but it's oil and acrylic on canvas.
 It bookends Heda: both paint reflections on glass, Heda through illusion and Lichtenstein through graphic shorthand.
 Talking point: "Same subject, completely new technique."
 
 Wrap-up: Heda perfected the form, Cézanne bent the viewpoint, Matisse flattened it into color and pattern, and Lichtenstein changed how it's made. The table and the fruit never left.
+
