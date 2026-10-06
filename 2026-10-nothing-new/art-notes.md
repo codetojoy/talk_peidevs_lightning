@@ -16,10 +16,12 @@ Talking point: "This is the form, the version everyone learned."
 
 Paul Cézanne, The Basket of Apples (c. 1893)
 
-* early Renaissance
+* post-Impressionist
 * multiple-points at once
 * not trying to represent realism
 * not showing technical mastery: innovation
+* Cezanne Father of Modern Art: inspired cubism
+* over $150m
 
 Same ingredients as Heda: table, fruit, bottle, cloth.
 The right side of the tabletop doesn't line up with the left, as if seen from two viewpoints at once.
@@ -28,8 +30,12 @@ Talking point: "Still a still life, with one deliberate 'wrong' choice. This kin
 
 Henri Matisse, The Dessert: Harmony in Red (1908)
 
-* flatness
+* over $50m
+* Fauvism: beasts
+* flatness: no perspective but color from tube
 * divorcing colour from reality: lighting
+* contrast: chair and woman are normal, wall and table are not
+    - fruit is normal, though color is simple
 
 One pattern covers both the wall and the table, so the table's edge nearly disappears.
 No conventional focal point and a flattened perspective.
@@ -40,7 +46,7 @@ Roy Lichtenstein, Still Life with Crystal Bowl (1972)
 
 * pop artist
 * three primary colours
-* comic book
+* fancy art subject like a comic book
 
 The most traditional subject of the four: a bowl of fruit on a table.
 Bold outlines, flat colors, and printing dots make it look machine-printed, but it's oil and acrylic on canvas.
