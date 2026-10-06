@@ -1,0 +1,27 @@
+Technology still-life image prompts
+
+Generated with the built-in image-generation tool.
+Reference for all three: first-mouse-still-life.png (setting and painterly style).
+
+search
+
+Use case: stylized-concept. Asset type: an original generated still-life painting for an HTML lightning-talk slide.
+Input image 1 is a STYLE AND SETTING REFERENCE, not the subject to retain. Match its warm painterly oil-on-canvas appearance, visible brush texture, softly sunlit rustic kitchen window in the upper left, white embroidered linen tablecloth with rich folds over a wooden table, subdued blue-and-white pottery and copper kitchenware in the background. Preserve a closely matching camera angle, framing, lighting and kitchen arrangement so this feels like another painting from the same series. Landscape 4:3 composition. The single new subject occupies the central table in place of the mousetrap and cheese and is large and easy to recognise from a presentation screen. No mousetrap, cheese, mice, fruit, people, logos, watermarks, or slide typography. Do not render the whole scene as a modern product photograph; retain the painted still-life aesthetic.
+Subject: a generic SEARCH BOX made tangible as a freestanding, wide, low, ivory-white rounded rectangular slab of frosted glass or enamel resting upright on the linen. Its face is almost front-on and immediately reads as a familiar modern search input: a simple dark magnifying-glass icon at the far left, a generous empty white input area, and a thin dark insertion caret. The rounded rectangle is approximately five times wider than tall, with subtle physical thickness, realistic weight, and a cast shadow on the cloth. It is a surreal still-life object, not a computer monitor or phone, not an ornate picture frame. No words, search results, letters, brand, surrounding browser, or extra icons. Make the search shape and magnifier unmistakable.
+
+---
+
+smartphone
+
+Use case: stylized-concept. Asset type: an original generated still-life painting for an HTML lightning-talk slide.
+Input image 1 is a STYLE AND SETTING REFERENCE, not the subject to retain. Match its warm painterly oil-on-canvas appearance, visible brush texture, softly sunlit rustic kitchen window in the upper left, white embroidered linen tablecloth with rich folds over a wooden table, subdued blue-and-white pottery and copper kitchenware in the background. Preserve a closely matching camera angle, framing, lighting and kitchen arrangement so this feels like another painting from the same series. Landscape 4:3 composition. The single new subject occupies the central table in place of the mousetrap and cheese and is large and easy to recognise from a presentation screen. No mousetrap, cheese, mice, fruit, people, logos, watermarks, or slide typography. Do not render the whole scene as a modern product photograph; retain the painted still-life aesthetic.
+Subject: one generic contemporary SMARTPHONE, upright in portrait orientation on the linen, held by a very discreet simple wooden support. Three-quarter view that clearly reveals its thin dark graphite body, rounded corners, and large glass touchscreen. The screen is softly lit with a restrained grid of simple abstract colored app squares and a subtle gradient, no legible labels or identifiable app logos. The whole phone is visible, large enough to dominate the composition, with painterly reflected window light and a grounded cast shadow on the cloth. It must be instantly recognisable as a smartphone. No cables, hands, brand, readable text, or additional foreground objects.
+
+---
+
+source-control
+
+Use case: stylized-concept. Asset type: an original generated still-life painting for an HTML lightning-talk slide.
+Input image 1 is a STYLE AND SETTING REFERENCE, not the subject to retain. Match its warm painterly oil-on-canvas appearance, visible brush texture, softly sunlit rustic kitchen window in the upper left, white embroidered linen tablecloth with rich folds over a wooden table, subdued blue-and-white pottery and copper kitchenware in the background. Preserve a closely matching camera angle, framing, lighting and kitchen arrangement so this feels like another painting from the same series. Landscape 4:3 composition. The single new subject occupies the central table in place of the mousetrap and cheese and is large and easy to recognise from a presentation screen. No mousetrap, cheese, mice, fruit, people, logos, watermarks, or slide typography. Do not render the whole scene as a modern product photograph; retain the painted still-life aesthetic.
+Subject: a single elegant physical tabletop sculpture symbolising SOURCE CONTROL COMMIT HISTORY. A simple open branching-and-merging graph built from slim bronze rods with round ivory ceramic discs at the nodes, on a discreet low wooden base. The graph reads left to right, almost front-on: a straight main rail with four evenly spaced circular nodes, and a branch that curves upward from the second node, passes through two pale sage-green circular nodes, and reconnects at the fourth node. One clean split and one clean merge; the six nodes and connecting rails are easily distinguished. It should look like a familiar software version-history graph made into a modest crafted still-life object, with believable material texture, depth and cast shadows. No text, letters, numbers, arrows, code, tree foliage, screen, brand logo, or extra foreground objects. Keep the graph large and visually simple, not a complex molecular model.
+
